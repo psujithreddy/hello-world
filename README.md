@@ -1,2 +1,2 @@
 # hello-world
-just a demo
+just a demo about the github
